@@ -17,4 +17,6 @@ The appeal of The Alexandria Train lies in its characters, featuring a variety o
 ### Main Menu
 ![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip1Alextrain.gif)
 ### Dialogue System
+![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip2Alextrain.gif)
 ### Unique Mechanics
+![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip3Alextrain.gif)
