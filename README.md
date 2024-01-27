@@ -15,5 +15,6 @@ PC, adventure, role-playing, 3D, literature.
 The appeal of The Alexandria Train lies in its characters, featuring a variety of famous characters from tales and numerous references to well-known literary figures. The game also includes a variety of puzzles designed to be solved during the adventure.
 
 ### Main Menu
+![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip1Alextrain.gif)
 ### Dialogue System
 ### Unique Mechanics
